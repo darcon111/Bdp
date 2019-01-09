@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#8bc3df</color>
+    <color name="colorPrimaryText">#ffffff</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#f2eff2</color>
+    <color name="colorIcons">#ffffff</color>
+    <color name="colorBg">#f0f0f0</color>
+    <color name="fondo">#ededed</color>
+    <color name="color_facebook">#34589A</color>
+    <color name="error_color">#d11313</color>
+
+    <color name="card1">#008363</color>
+    <color name="card2">#838184</color>
+    <color name="total">#36b7f7</color>
+    <color name="total2">#464344</color>
+    <color name="colorBanco1">#02a0f8</color>
+    <color name="colorBanco2">#0373c2</color>
+    <color name="colorMenu">#e4e4e4</color>
+    <color name="inversion">#0049a6</color>
+</resources>

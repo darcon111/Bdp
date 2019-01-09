@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Bdp</string>
+    <string name="tssa">TASA DE INTERÉS</string>
+    <string name="vence">VENCE</string>
+    <string name="resumen">Resumen \nde Inversión</string>
+    <string name="cuenta">CUENTA(S) QUE SE DEBITA </string>
+    <string name="numcuenta">10XXXXXX57</string>
+    <string name="procedencia">PROCEDENCIA DE FONDOS</string>
+    <string name="fondos">¿Como obtuviste los fondos de inversión?</string>
+
+    <string name="debito">Débito a cuenta</string>
+    <string name="ahorro">Ahorro de remuneración mensual</string>
+    <string name="venta">Venta de bien inmueble</string>
+    <string name="otros">Otros</string>
+    <string name="inversion">AL FINALIZAR TU INVERSIÓN</string>
+    <string name="renovar">Elige entre <b>RENOVAR</b> automáticamente\ntí inversión,o <b>ACREDITAR</b> el monto\ntotal en tu cuenta</string>
+
+    <string name="oprenovar">RENOVAR</string>
+    <string name="acreditar">ACREDITAR</string>
+
+    <string name="oprenovarpregunta">¿Deseas <b>Renovar</b> el monto total \nde tu inversion, a finalizar el plazo?</string>
+    <string name="oprenovaraplica">Aplica términos y condiciones</string>
+    <string name="si">SI</string>
+
+    <string name="acreditarcuenta">Cuenta de Ahorros\n10XXXXXX57</string>
+    <string name="acreditarcuenta2">Cuenta de Ahorros\n10XXXXXX97</string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="user">¡Hola Luis!</string>
+    <string name="validacion">Validación</string>
+    <string name="codigo">Hemos enviado un código de activación a tu correo electrónico,por favor ingrésala a continuación</string>
+
+    <string name="revocacion">Renovación</string>
+    <string name="cancelacion">Cancelación</string>
+    <string name="cargando">Cargando.</string>
+
+    <string name="solicitar">Solicitar nuevo código</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="ayuda">Ayudar</string>
+    <string name="cerrar">Cerrar Seción</string>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string name="footer">2018 Banco del Pacífico\n Version 3.2</string>
+    <string name="correo">Hemos enviado un correo a:<b>Jaimeandrade454@Gmail.com</b>\npara que conozxa todos los beneficios de \ntu inversión</string>
+
+    <string name="felicidades">Felicidades Luis</string>
+    <string name="placer">Es un placer tenerte como inversionista</string>
+    <string name="inversionresul">TU INVERSION ES:</string>
+    <string name="inversionresul2">2619944551</string>
+    <string name="comprobante">Ver Comprobante</string>
+
+</resources>
